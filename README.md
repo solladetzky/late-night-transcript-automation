@@ -25,3 +25,9 @@ The goal was to create organized, usable datasets for future academic research e
 ## Research Applications
 
 The resulting datasets support future keyword analysis and comparisons of language patterns across television programs and time periods.
+
+## Project Files
+
+- **extract_transcripts.R** — Main R script for retrieving, cleaning, and organizing closed-caption transcripts from Internet Archive video links.
+- **extract_transcripts2.R** — Alternate extraction script adapted to a different CSV input format.
+- **archive.R** — Test script for running transcript extraction on a smaller batch of episodes.
